@@ -1,3 +1,5 @@
+This project is licensed under the CC BY-NC 4.0 License. Commercial use is NOT permitted
+
 # csspositions
 A simple landing page that demonstrates the usage of css positioning, and float
 
